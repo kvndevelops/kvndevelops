@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kvndevelops
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: kvndevelops@gmail.com
 
